@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+VIC:wght@100..400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+VIC:wght@100..400&family=Playwrite+NO:wght@100..400&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.first{
+    height: 95vh;
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url("./images/compressed_gm_40_img_383108_2e3c786a_1702223381007_sc.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+h1{
+    text-align: center;
+    padding-top: 10%;
+    font-family: 'Playwrite AU VIC';
+    color: rgb(255, 208, 0);
+}
+.sec{
+    height: 95vh;
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url("./images/princes.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top: 5%;
+}
+h2{
+    text-align: center;
+    padding-top: 45%;
+    font-size: 40px;
+    font-family: 'Playwrite AU VIC';
+    color: rgb(0, 0, 0);
+}
+.our{
+    height: 95vh;
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url("./images/depositphotos_314582472-stock-photo-minimal-geometric-black-gradient-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top: 5%;
+}
+.yes{
+    
+    width: 100%;
+    text-align: center;
+}
+img{
+    padding-top: 5%;
+    width: 20%;
+    border-radius: 5px;
+}
+img:hover{
+    opacity: 0.8;
+
+}
+.just{
+    height: 95vh;
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url("./images/depositphotos_314582472-stock-photo-minimal-geometric-black-gradient-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top: 5%;
+    text-align: center;
+}
+.just img{
+   width: 70%;
+    border-radius: 10px;
+}
+h3{
+    padding-top: 3%;
+    
+    text-align: center;
+    color: rgb(255, 208, 0);
+    font-family: 'Playwrite AU VIC';
+}
+p{
+    background-color: rgb(255, 208, 0);
+    font-family: 'Playwrite NO';
+    text-align: center;
+
+}
